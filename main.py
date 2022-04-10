@@ -8,7 +8,7 @@ from gtts import gTTS
 
 from keyboards import *
 
-API_TOKEN = '5288787999:AAFnphBU40jQPJGnDpyDtchhMvD49ii2sts'
+API_TOKEN = ''
 
 
 logging.basicConfig(level=logging.INFO)
